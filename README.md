@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Thiago Moreira!
 
-- 🌱 Estudando Front End
+- 🌱 Estudando Fullstack
 - 😄 Pronouns: ele / dele
-
+- HTML, CSS, Java script, Java, Golang
 <div align="center">
   <a href="https://github.com/t-moreira1982">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t-moreira1982&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
