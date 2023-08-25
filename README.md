@@ -17,7 +17,7 @@
   <img align="center" alt="TG-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 </div>
 
-![Snake animation](https://github.com/t-moreira1982/t-moreira1982/blob/output/github-contribution-grid-snake.svg)
+
   
   ##
   
