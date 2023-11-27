@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Thiago Moreira!
 
-- 🌱 Estudando Fullstack
+- 🌱 Software engineer | Back End | Golang
 - 😄 Pronouns: ele / dele
 - HTML, CSS, Java script, Java, Golang
 
